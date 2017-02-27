@@ -1,0 +1,12 @@
+C:\Projects\RepositoryPattern\My.Repositories\bin\Debug\My.Repositories.dll.config
+C:\Projects\RepositoryPattern\My.Repositories\bin\Debug\My.Repositories.dll
+C:\Projects\RepositoryPattern\My.Repositories\bin\Debug\My.Repositories.pdb
+C:\Projects\RepositoryPattern\My.Repositories\bin\Debug\EntityFramework.dll
+C:\Projects\RepositoryPattern\My.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\RepositoryPattern\My.Repositories\bin\Debug\EntityFramework.xml
+C:\Projects\RepositoryPattern\My.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\RepositoryPattern\My.Repositories\obj\Debug\My.Repositories.csprojResolveAssemblyReference.cache
+C:\Projects\RepositoryPattern\My.Repositories\obj\Debug\My.Repositories.dll
+C:\Projects\RepositoryPattern\My.Repositories\obj\Debug\My.Repositories.pdb
+C:\Projects\RepositoryPattern\My.Repositories\bin\Debug\My.Domain.dll
+C:\Projects\RepositoryPattern\My.Repositories\bin\Debug\My.Domain.pdb

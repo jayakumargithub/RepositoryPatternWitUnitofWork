@@ -1,0 +1,4 @@
+C:\Projects\RepositoryPattern\My.DataBase\bin\Debug\My.DataBase.dll
+C:\Projects\RepositoryPattern\My.DataBase\bin\Debug\My.DataBase.pdb
+C:\Projects\RepositoryPattern\My.DataBase\obj\Debug\My.DataBase.dll
+C:\Projects\RepositoryPattern\My.DataBase\obj\Debug\My.DataBase.pdb

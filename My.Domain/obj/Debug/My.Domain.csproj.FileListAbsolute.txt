@@ -1,0 +1,4 @@
+C:\Projects\RepositoryPattern\My.Domain\bin\Debug\My.Domain.dll
+C:\Projects\RepositoryPattern\My.Domain\bin\Debug\My.Domain.pdb
+C:\Projects\RepositoryPattern\My.Domain\obj\Debug\My.Domain.dll
+C:\Projects\RepositoryPattern\My.Domain\obj\Debug\My.Domain.pdb
