@@ -3,10 +3,14 @@ C:\Projects\RepositoryPattern\My.Repositories\bin\Debug\My.Repositories.dll
 C:\Projects\RepositoryPattern\My.Repositories\bin\Debug\My.Repositories.pdb
 C:\Projects\RepositoryPattern\My.Repositories\bin\Debug\EntityFramework.dll
 C:\Projects\RepositoryPattern\My.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\RepositoryPattern\My.Repositories\bin\Debug\My.Domain.dll
+C:\Projects\RepositoryPattern\My.Repositories\bin\Debug\My.Domain.pdb
 C:\Projects\RepositoryPattern\My.Repositories\bin\Debug\EntityFramework.xml
 C:\Projects\RepositoryPattern\My.Repositories\bin\Debug\EntityFramework.SqlServer.xml
 C:\Projects\RepositoryPattern\My.Repositories\obj\Debug\My.Repositories.csprojResolveAssemblyReference.cache
+C:\Projects\RepositoryPattern\My.Repositories\obj\Debug\My.Repositories.Migrations.Initial.resources
+C:\Projects\RepositoryPattern\My.Repositories\obj\Debug\My.Repositories.Migrations.addingseeding.resources
+C:\Projects\RepositoryPattern\My.Repositories\obj\Debug\My.Repositories.Migrations.update.resources
+C:\Projects\RepositoryPattern\My.Repositories\obj\Debug\My.Repositories.csproj.GenerateResource.Cache
 C:\Projects\RepositoryPattern\My.Repositories\obj\Debug\My.Repositories.dll
 C:\Projects\RepositoryPattern\My.Repositories\obj\Debug\My.Repositories.pdb
-C:\Projects\RepositoryPattern\My.Repositories\bin\Debug\My.Domain.dll
-C:\Projects\RepositoryPattern\My.Repositories\bin\Debug\My.Domain.pdb

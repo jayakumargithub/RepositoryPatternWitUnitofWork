@@ -25,17 +25,17 @@ namespace My.Repositories.Context.Configurations
                 .HasForeignKey(c => c.AuthorId)
                 .WillCascadeOnDelete(false);
 
-            HasRequired(c => c.Cover)
-                .WithRequiredPrincipal(c => c.Course);
+            //HasRequired(c => c.Cover)
+            //    .WithRequiredPrincipal(c => c.Course);
 
-            HasMany(c => c.Tags)
-                .WithMany(t => t.Courses)
-                .Map(m =>
-                {
-                    m.ToTable("CourseTags");
-                    m.MapLeftKey("CourseId");
-                    m.MapRightKey("TagId");
-                });
+            //HasMany(c => c.Tags)
+            //    .WithMany(t => t.Courses)
+            //    .Map(m =>
+            //    {
+            //        m.ToTable("CourseTags");
+            //        m.MapLeftKey("CourseId");
+            //        m.MapRightKey("TagId");
+            //    });
         }
     }
 }

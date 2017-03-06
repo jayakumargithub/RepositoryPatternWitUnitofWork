@@ -1,1 +1,14 @@
 C:\Projects\RepositoryPattern\My.Client\bin\Debug\My.Client.exe.config
+C:\Projects\RepositoryPattern\My.Client\bin\Debug\My.Client.exe
+C:\Projects\RepositoryPattern\My.Client\bin\Debug\My.Client.pdb
+C:\Projects\RepositoryPattern\My.Client\bin\Debug\My.Domain.dll
+C:\Projects\RepositoryPattern\My.Client\bin\Debug\My.Repositories.dll
+C:\Projects\RepositoryPattern\My.Client\bin\Debug\EntityFramework.dll
+C:\Projects\RepositoryPattern\My.Client\bin\Debug\My.Domain.pdb
+C:\Projects\RepositoryPattern\My.Client\bin\Debug\My.Repositories.pdb
+C:\Projects\RepositoryPattern\My.Client\bin\Debug\EntityFramework.xml
+C:\Projects\RepositoryPattern\My.Client\obj\Debug\My.Client.csprojResolveAssemblyReference.cache
+C:\Projects\RepositoryPattern\My.Client\obj\Debug\My.Client.exe
+C:\Projects\RepositoryPattern\My.Client\obj\Debug\My.Client.pdb
+C:\Projects\RepositoryPattern\My.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\RepositoryPattern\My.Client\bin\Debug\EntityFramework.SqlServer.xml

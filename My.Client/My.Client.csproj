@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -48,6 +51,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\My.Domain\My.Domain.csproj">
+      <Project>{2c831e35-5c78-4f0e-8d0a-793fd12b6fcb}</Project>
+      <Name>My.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\My.Repositories\My.Repositories.csproj">
+      <Project>{d62c54f8-4bd1-4bda-8907-4fb59e056d69}</Project>
+      <Name>My.Repositories</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

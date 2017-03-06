@@ -1,10 +1,11 @@
-﻿using My.Domain.Interface;
+﻿using System;
+using My.Domain.Interface;
 using My.Repositories.Repos;
 
 namespace My.Repositories.Context
 {
    
-    public class UnitOfWork 
+    public class UnitOfWork : IDisposable
     {
         private readonly PlutoContext _context;
         public UnitOfWork(PlutoContext context)
@@ -27,5 +28,7 @@ namespace My.Repositories.Context
         {
             _context.Dispose();
         }
+
+      
     }
 }

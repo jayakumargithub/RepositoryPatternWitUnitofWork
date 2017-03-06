@@ -6,10 +6,10 @@ namespace My.Domain.Models
     {
         public Course()
         {
-            Tags = new HashSet<Tag>();
+           // Tags = new HashSet<Tag>();
         }
 
-        public int Id { get; set; }
+        public int CourseId { get; set; }
 
         public string Name { get; set; }
 
@@ -23,9 +23,9 @@ namespace My.Domain.Models
 
         public int AuthorId { get; set; }
 
-        public virtual ICollection<Tag> Tags { get; set; }
+     //   public virtual ICollection<Tag> Tags { get; set; }
 
-        public Cover Cover { get; set; }
+      //  public Cover Cover { get; set; }
 
         public bool IsBeginnerCourse
         {

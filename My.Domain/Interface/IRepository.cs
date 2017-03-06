@@ -15,5 +15,7 @@ namespace My.Domain.Interface
 
         void Remove(TEntity entity);
         void RemoveRange(IEnumerable<TEntity> entities);
+
+        TEntity FindById(int id);
     }
 }
